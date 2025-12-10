@@ -8,3 +8,5 @@ Report on the work performed 1 - отчёт по проделанной рабо
 Table connections - визуализация свзяей в пдф формате
 
 app - всё что есть по проекту
+
+Report on the work performed 2 - отчёт по проделанной работе 2
